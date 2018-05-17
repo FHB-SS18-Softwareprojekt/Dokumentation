@@ -9,7 +9,7 @@
 	- Import als PDF, Word, Präsentation, (HTML)
 	- Copy & Paste Textfeld
 
-![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Eingabe_Use_Case_Diagramm.png)
+![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Eingabe.png)
 
 #### Ausgabe
 	- Anzeige des zusammengefassten Texts
