@@ -1,14 +1,14 @@
-##Pflichtenheft
+## Pflichtenheft
 
-###Anforderungen
-####Allgemein
-	-Text zusammenfassen
-####Eingabe
+### Anforderungen
+#### Allgemein
+	- Text zusammenfassen
+#### Eingabe
 	- Import als PDF, Word, Präsentation, (HTML)
 	- Copy & Paste Textfeld
-####Ausgabe
+#### Ausgabe
 	- Export als PDF
-####Einstellungen
+#### Einstellungen
 	- Sprache : Deutsch und Englisch
 	- Anzahl der Wörter (Prozentual)
 	- Heatmap : Priorität der Sätze
