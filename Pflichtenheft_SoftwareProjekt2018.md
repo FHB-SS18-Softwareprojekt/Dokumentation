@@ -9,20 +9,20 @@
 	- Import als PDF, Word, Präsentation, (HTML)
 	- Copy & Paste Textfeld
 
-![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/bilder/Eingabe_Use_Case_Diagramm.png)
+![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/pflichtenheft/bilder/Eingabe_Use_Case_Diagramm.png)
 
 #### Ausgabe
 	- Anzeige des zusammengefassten Texts
 	- Export als PDF
 
-![Use Case Ausgabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/bilder/Ausgabe_Use_Case_Diagramm.png)
+![Use Case Ausgabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/pflichtenheft/bilder/Ausgabe_Use_Case_Diagramm.png)
 
 #### Einstellungen
 	- Sprache : Deutsch und Englisch
 	- Anzahl der Wörter (Prozentual)
 	- Heatmap : Priorität der Sätze
 
-![Use Case Einstellungen](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/bilder/Einstellungen_Use_Case_Diagramm.png)
+![Use Case Einstellungen](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/pflichtenheft/bilder/Einstellungen_Use_Case_Diagramm.png)
 
 ### Nicht-Funktionale Anforderungen
 
