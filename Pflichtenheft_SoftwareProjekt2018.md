@@ -24,11 +24,25 @@
 
 ![Use Case Einstellungen](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Use_Case_Diagramm.png)
 
+| Schritt          | Akteur          | Ablauf (Basic Flow)  |
+| :-------------: |:-------------:| :-----:|
+| 1.      | User | Import einer Datei |
+| 2.      | User      |   Überprüfen ob alle Einstellungen stimmen |
+| 3. | User      |    Anzeige des zusammengefassten Textes |
+| 4.      | User | Exportieren des Textes als PDF-Datei |
+|           |          | **Ausnahmen, Varianten**  |
+| 1.a      | System      |   Mitteilung falls ein falsches Dateiformat gewählt wurde |
+| 2.a      | User      |   Sprache ändern, falls dies notwendig ist |
+| 2.b | User      |    Anzahl der Wörter ändern (siehe Use Case für die Einstellungen) |
+| 2.c | User      |    Heatmap anzeigen lassen |
+| 3.a | System      |    Mitteilung falls der Ausgangstext zu kurz ist |
+
 ### Nicht-Funktionale Anforderungen
 
 #### Anwendung
 	- Wir wollen ein ausführbares Programm erstellen, welches auf allen gängigen Betriebssystemen läuft (Windows, Linux, OS X).
 	- Die Anwendung sollte intuitiv nutzbar sein und die Aufgabe der Zusammenfassung schnell und sicher erledigen (effiziente Algorithmen).
+
 
 ### User-Stories
 
