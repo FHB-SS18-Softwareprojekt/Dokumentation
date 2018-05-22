@@ -18,7 +18,7 @@ Teilnehmer:
 - Akin Sansar
 - Lukas Pöhler
 
-Es fehlen </br>
+Es fehlten </br>
 
 - Jan Augstein
 
