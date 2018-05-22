@@ -46,7 +46,6 @@
 	- Wir wollen ein ausführbares Programm erstellen, welches auf allen gängigen Betriebssystemen läuft (Windows, Linux, OS X).
 	- Die Anwendung sollte intuitiv nutzbar sein und die Aufgabe der Zusammenfassung schnell und sicher erledigen (effiziente Algorithmen).
 
-
 ### User-Stories
 
 #### Import
@@ -69,14 +68,22 @@
 
 #### Heatmap
 	- Als Nutzer möchte ich eine Heatmap angezeigt bekommen, damit ich direkt weiß welche Sätze in der Zusammenfassung am wichtigsten sind.
-	
+
 ### Mockups
+
+##### Allgemeines Programm
 
 ![Allgemeines/Import Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Mockup_Allgemein.png)
 
+##### Import
+
 ![Importieren Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Mockup_Importieren.png)
 
+##### Einstellungen
+
 ![Einstellungen Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Mockup.png)
+
+##### Export
 
 ![Exportieren Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Exportieren_Mockup.png)
 
