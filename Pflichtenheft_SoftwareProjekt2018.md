@@ -72,7 +72,7 @@
 	
 ### Mockups
 
-![Allgemeines/Import Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Mockup_Allgemein_Import.png)
+![Allgemeines/Import Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Mockup_Allgemein_Import.jpg)
 
 ![Einstellungen Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Mockup.png)
 
