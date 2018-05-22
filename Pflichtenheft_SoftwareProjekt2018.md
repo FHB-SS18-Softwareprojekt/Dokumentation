@@ -19,7 +19,7 @@
 
 #### Einstellungen
 	- Sprache : Deutsch und Englisch
-	- Anzahl der Wörter (Prozentual)
+	- Anzahl der Sätze (Prozentual)
 	- Heatmap : Priorität der Sätze
 
 ![Use Case Einstellungen](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Use_Case_Diagramm.png)
@@ -33,7 +33,7 @@
 |           |          | **Ausnahmen, Varianten**  |
 | 1.a      | System      |   Mitteilung falls ein falsches Dateiformat gewählt wurde |
 | 2.a      | User      |   Sprache ändern, falls dies notwendig ist |
-| 2.b | User      |    Anzahl der Wörter ändern (siehe Use Case für die Einstellungen) |
+| 2.b | User      |    Anzahl der Sätze ändern (siehe Use Case für die Einstellungen) |
 | 2.c | User      |    Heatmap anzeigen lassen |
 | 3.a | System      |    Mitteilung falls der Ausgangstext zu kurz ist |
 
@@ -61,8 +61,8 @@
 #### Sprache
 	- Als Nutzer möchte ich einstellen können ob es sich um einen deutschen oder englischen Text handelt, damit die Zusammenfassung richtig abläuft.
 
-#### Anzahl der Wörter
-	- Als Nutzer möchte ich einstellen können wie viele Wörter die Zusammenfassung gegenüber dem Ursprungstext haben soll (prozentual), falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
+#### Anzahl der Sätze
+	- Als Nutzer möchte ich einstellen können wie viele Sätze die Zusammenfassung gegenüber dem Ursprungstext haben soll (prozentual), falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
 
 #### Heatmap
 	- Als Nutzer möchte ich eine Heatmap angezeigt bekommen, damit ich direkt weiß welche Sätze in der Zusammenfassung am wichtigsten sind.
