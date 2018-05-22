@@ -7,6 +7,7 @@
 
 #### Eingabe
 	- Import als PDF, Word, Präsentation, (HTML)
+	- Einstellung ob alles oder nur ein Teil gekürzt werden soll (Import)
 	- Copy & Paste Textfeld
 
 ![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Eingabe.png)
@@ -32,6 +33,8 @@
 | 4.      | User | Exportieren des Textes als PDF-Datei |
 |           |          | **Ausnahmen, Varianten**  |
 | 1.a      | System      |   Mitteilung falls ein falsches Dateiformat gewählt wurde |
+| 1.b      | User      |   Einstellung ob alles gekürzt werden soll |
+| 1.c     | User    |   Bestimmte Seitenzahl zum kürzen eingeben |
 | 2.a      | User      |   Sprache ändern, falls dies notwendig ist |
 | 2.b | User      |    Anzahl der Sätze ändern (siehe Use Case für die Einstellungen) |
 | 2.c | User      |    Heatmap anzeigen lassen |
@@ -66,3 +69,12 @@
 
 #### Heatmap
 	- Als Nutzer möchte ich eine Heatmap angezeigt bekommen, damit ich direkt weiß welche Sätze in der Zusammenfassung am wichtigsten sind.
+	
+### Mockups
+
+![Allgemeines/Import Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Mockup_Allgemein_Import.png)
+
+![Einstellungen Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Mockup.png)
+
+![Exportieren Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Exportieren_Mockup.png)
+
