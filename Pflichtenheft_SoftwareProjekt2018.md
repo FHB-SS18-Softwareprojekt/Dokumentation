@@ -87,3 +87,19 @@
 
 ![Exportieren Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Exportieren_Mockup.png)
 
+###Glossar
+
+##### Import
+Eine Datei aus einem Verzeichnis laden, um diese im Programm zu nutzen.
+
+##### Export
+Die Ausgabe der Zusammenfassung als Datei in einem Verzeichnis speichern.
+
+##### Heatmap
+Farbige Markierung der einzelnen Sätze, je nach der Priorität  für die Zusammenfassung.
+
+##### Ausgabe
+Ein Textfenster oder eine Datei, in der die Zusammenfassung steht beziehungsweise gespeichert wird.
+
+##### Einstellungen
+Extra wie die Auswahl des Sprache, Anzahl der Sätze, die angezeigt werden und ob die Heatmap aktiviert werden soll oder nicht.
