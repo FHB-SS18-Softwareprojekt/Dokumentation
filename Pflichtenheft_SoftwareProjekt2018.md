@@ -91,7 +91,7 @@
 
 ![Klassendiagramm](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/architecture.jpg)
 
-###Glossar
+### Glossar
 
 ##### Import
 Eine Datei aus einem Verzeichnis laden, um diese im Programm zu nutzen.
