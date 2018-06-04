@@ -87,6 +87,10 @@
 
 ![Exportieren Mockup](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Exportieren_Mockup.png)
 
+### Klassendiagramm
+
+![Klassendiagramm](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/architecture.jpg)
+
 ###Glossar
 
 ##### Import
