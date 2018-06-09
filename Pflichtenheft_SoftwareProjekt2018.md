@@ -51,23 +51,51 @@
 #### Import
 	- Als Nutzer möchte ich einen Text PDF, Word-Datei oder als HTML-Datei importieren, um diese anschließend zusammenzufassen.
 
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+|Import | User | Dateien importieren | diese zusammengefasst werden können | der Text wird importiert und zusammengeafsset | muss |
+
 #### Copy & Paste
 	- Als Nutzer möchte ich einen Text kopieren und in ein Textfeld einfügen, um diesen zusammenfassen zu können.
+
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+| Copy & Paste | User | Texte in ein Textfeld kopieren können | dieser Text zusammengefasst wird ohne eine Datei importieren zu müssen | Es existiert ein Textfeld für die Option Copy & Paste | optional |
 
 #### Anzeige
 	- Als Nutzer möchte ich den zusammengefassten Text angezeigt bekommen.
 
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+| Anzeige | User | eine Vorschau des zusammengefassten Text haben | man sehen kann ob die gewählten Einstellungen passend sind | Der Text wird im Programm als Vorschau angezeigt | muss |
+
 #### Export
 	- Als Nutzer möchte ich den zusammengefassten Text als PDF exportieren können, um diesen später wiederverwenden zu können.
+
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+|Export | User | den zusammengefassten Text als Datei exportieren können | der Text gespeichert werden kann und wiederverwendbar ist | Es gibt die Möglichkeit Texte zu exportieren | muss |
 
 #### Sprache
 	- Als Nutzer möchte ich einstellen können ob es sich um einen deutschen oder englischen Text handelt, damit die Zusammenfassung richtig abläuft.
 
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+| Sprache | User | die Sprache für die Texte einstellen können | man Texte auch in anderen Sprachen zusammenfassen kann | Es gibt eine Sprachauswahl | muss |
+
 #### Anzahl der Sätze
 	- Als Nutzer möchte ich einstellen können wie viele Sätze die Zusammenfassung gegenüber dem Ursprungstext haben soll (prozentual), falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
 
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+| Anzahl der Sätze | User | die Anzahl der Sätze verringern oder erhöhen können | die Zusammenfassung detailierter oder aber kompakter ist | Mna kann die Anzahl der Sätze bestimmen | muss |
+
 #### Heatmap
 	- Als Nutzer möchte ich eine Heatmap angezeigt bekommen, damit ich direkt weiß welche Sätze in der Zusammenfassung am wichtigsten sind.
+
+| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
+| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
+| Heatmap | User | die Option haben eine Heatmap zu benutzen | man sieht welche Relevanz die einzelnen Sätze haben | Die Sätze werden farbig makiert sobald die Option Heatmap ausgewählt ist | muss |
 
 ### Mockups
 
