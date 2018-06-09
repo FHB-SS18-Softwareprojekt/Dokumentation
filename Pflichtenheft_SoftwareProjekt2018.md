@@ -119,6 +119,10 @@
 
 ![Klassendiagramm](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/architecture.jpg)
 
+### Aktivitätsdiagramm
+
+![Aktivitätsdiagramm](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Aktivitätsdiagramm.png)
+
 ### Glossar
 
 ##### Import
