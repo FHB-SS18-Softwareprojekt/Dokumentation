@@ -21,16 +21,20 @@ Teilnehmer:
 
 ## Ablauf 
 
-1. Besprechung
+1. Ergebnisse
 2. Aufgabenbearbeitung
 3. Termin für das nächste Meeting
 
 
-### 1. Besprechung
-Fragen wurden aufgeklärt und jeder sollte erzählen was er gemacht hat.
+### 1. Ergebnisse
+Für dieses Treffen, sollte das Doc-Team und Programmier-Team ihre Ergebnisse vorzeigen. </br>
+Einige Features, wie zum Beispiel das Importieren/Exportieren von PDF-Dateien, wurden in Java geschrieben und funktionieren. </br>
+Außerdem wurde das Pflichtenheft erweitert.
+
 
 ### 2. Aufgabenbearbeitung
-Die Teams haben sich zusammengesetzt und haben weiter an den Aufgaben gearbeitet.
+Die Teams haben sich zusammengesetzt und haben weiter an den Aufgaben gearbeitet, wie zum Beispiel die Erweiterung von Programmcode. </br>
+Der Projektleiter hat dafür gesorgt, dass jeder konzentriert arbeitet und hat, falls es Probleme gab, geholfen
 
 ### 3. Termin für das nächste Meeting
-Das nächste Meeting findet am 05.06.2018 im Raum C1 statt.
+Das nächste Meeting findet am 05.06.2018 im Raum D328 statt.
