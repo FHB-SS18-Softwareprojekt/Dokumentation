@@ -18,7 +18,7 @@ Teilnehmer:
 - Akin Sansar
 - Lukas Pöhler
 
-Es fehlten </br>
+Es fehlen </br>
 
 - Jan Augstein
 
@@ -31,8 +31,11 @@ Es fehlten </br>
 
 ### 1. Besprechung
 
-Aufklärung von Fragen und besprochen, wer was gemacht und erreicht hat. </br>
-Außerdem wurden Anforderungen bis zur nächsten Woche festgelegt.
+Zu Beginn des Meetings haben wir besprochen, was jeder seit dem letzten Treffen gemacht hat. </br>
+Dabei wurde darauf geachtet, dass jeder was sagt. </br>
+Nach der Besprechung hat jeder Aufgaben für das nächsten Treffen zugeteilt bekommen.<br>
+Da wir in der letzten Woche erste Ideen von Andre Matutat präsentiert bekommen haben, wie unser Programm aussehen könnte, haben wir uns die Mockups nochmal in einer erweiterten Form angeguckt und haben abgestimmt, dass das Design nochmal etwas umgeändert werden muss.  </br>
+
 
 ### 2. Anforderungen für das nächste Treffen
 
