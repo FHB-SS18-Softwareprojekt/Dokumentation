@@ -24,7 +24,7 @@ Es fehlten </br>
 
 ## Ablauf
 1. Präsentation
-2. Aufgabenbearbeitung
+2. Besprechung
 3. Projektfortschritt
 4. Anforderungen für das nächste Treffen
 5. Termin für das nächste Meeting
@@ -34,11 +34,15 @@ Es fehlten </br>
 Folgende Präsentationen wurden präsentiert:
 
 - Anforderungsanlayse
+- Mockup
 - Testkonzept
 
-### 2. Aufgabenbearbeitung
+### 2. Besprechung
 
-Die Teams haben sich zusammengesetzt und weiter an den Aufgaben gearbeitet.
+Da Anforderungen für dieses Meeting festgelegt wurden, haben die Teams ihre Fortschritte präsentiert. </br>
+Nachdem das Doc-Team die Anforderungsanalyse vorgestellt hat (Use-Case-Diagramme, Funktionale und nicht Funktionale Anforderungen...), haben wir die finale Form des Programms als Mockup und Testkonzepte präsentiert bekommen. </br>
+Außerdem haben die Programmierer fertige Klassendiagramme vorgezeigt. 
+
 
 ### 3. Projektfortschritt
 
