@@ -90,12 +90,6 @@
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
 | Anzahl der Sätze | User | die Anzahl der Sätze verringern oder erhöhen können | die Zusammenfassung detailierter oder aber kompakter ist | Mna kann die Anzahl der Sätze bestimmen | muss |
 
-#### Heatmap
-	- Als Nutzer möchte ich eine Heatmap angezeigt bekommen, damit ich direkt weiß welche Sätze in der Zusammenfassung am wichtigsten sind.
-
-| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
-| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
-| Heatmap | User | die Option haben eine Heatmap zu benutzen | man sieht welche Relevanz die einzelnen Sätze haben | Die Sätze werden farbig makiert sobald die Option Heatmap ausgewählt ist | muss |
 
 ### Mockups
 
@@ -123,9 +117,6 @@ Eine Datei aus einem Verzeichnis laden, um diese im Programm zu nutzen.
 
 ##### Export
 Die Ausgabe der Zusammenfassung als Datei in einem Verzeichnis speichern.
-
-##### Heatmap
-Farbige Markierung der einzelnen Sätze, je nach der Priorität  für die Zusammenfassung.
 
 ##### Ausgabe
 Ein Textfenster oder eine Datei, in der die Zusammenfassung steht beziehungsweise gespeichert wird.
