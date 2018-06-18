@@ -13,7 +13,7 @@
 
 #### Ausgabe
 	- Anzeige des zusammengefassten Texts
-	- Export als PDF
+	- Speichern als PDF
 
 ![Use Case Ausgabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Ausgabe_Use_Case_Diagramm.png)
 
@@ -62,12 +62,12 @@
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
 | Anzeige | User | eine Vorschau des zusammengefassten Text haben | man sehen kann ob die gewählten Einstellungen passend sind | Der Text wird im Programm als Vorschau angezeigt | muss |
 
-#### Export
-	- Als Nutzer möchte ich den zusammengefassten Text als PDF exportieren können, um diesen später wiederverwenden zu können.
+#### Speichern unter
+	- Als Nutzer möchte ich den zusammengefassten Text als PDF speichern können, um diesen später wiederverwenden zu können.
 
 | Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
-|Export | User | den zusammengefassten Text als Datei exportieren können | der Text gespeichert werden kann und wiederverwendbar ist | Es gibt die Möglichkeit Texte zu exportieren | muss |
+|Speichern unter | User | den zusammengefassten Text als Datei speichern können | der Text gespeichert werden kann und wiederverwendbar ist | Es gibt die Möglichkeit Texte zu speichern | muss |
 
 #### Kürzen um X%
 	- Als Nutzer möchte ich einstellen können, um wie viel Prozent der Text gekürzt werden soll, falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
@@ -101,7 +101,7 @@
 ##### Import
 Eine Datei aus einem Verzeichnis laden, um diese im Programm zu nutzen.
 
-##### Export
+##### Speichern unter
 Die Ausgabe der Zusammenfassung als Datei in einem Verzeichnis speichern.
 
 ##### Ausgabe
