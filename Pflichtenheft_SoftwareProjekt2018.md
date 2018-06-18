@@ -76,19 +76,12 @@
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
 |Export | User | den zusammengefassten Text als Datei exportieren können | der Text gespeichert werden kann und wiederverwendbar ist | Es gibt die Möglichkeit Texte zu exportieren | muss |
 
-#### Sprache
-	- Als Nutzer möchte ich einstellen können ob es sich um einen deutschen oder englischen Text handelt, damit die Zusammenfassung richtig abläuft.
+#### Kürzen um X%
+	- Als Nutzer möchte ich einstellen können, um wie viel Prozent der Text gekürzt werden soll, falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
 
 | Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
-| Sprache | User | die Sprache für die Texte einstellen können | man Texte auch in anderen Sprachen zusammenfassen kann | Es gibt eine Sprachauswahl | muss |
-
-#### Anzahl der Sätze
-	- Als Nutzer möchte ich einstellen können wie viele Sätze die Zusammenfassung gegenüber dem Ursprungstext haben soll (prozentual), falls ich eine kurze beziehungsweise lange Zusammenfassung brauche.
-
-| Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
-| :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
-| Anzahl der Sätze | User | die Anzahl der Sätze verringern oder erhöhen können | die Zusammenfassung detailierter oder aber kompakter ist | Mna kann die Anzahl der Sätze bestimmen | muss |
+| Kürzen um X% | User | die Länge des gekürzten Textes bestimmen können | die Zusammenfassung detailierter oder aber kompakter ist | Man kann die Prozentzahl zur Kürzung bestimmen | muss |
 
 
 ### Mockups
@@ -122,4 +115,4 @@ Die Ausgabe der Zusammenfassung als Datei in einem Verzeichnis speichern.
 Ein Textfenster oder eine Datei, in der die Zusammenfassung steht beziehungsweise gespeichert wird.
 
 ##### Einstellungen
-Extra wie die Auswahl des Sprache, Anzahl der Sätze, die angezeigt werden und ob die Heatmap aktiviert werden soll oder nicht.
+Auswahl um wie viel Prozent der Text gekürzt werden soll.
