@@ -6,8 +6,7 @@
 	- Text zusammenfassen
 
 #### Eingabe
-	- Import als PDF, Word, Präsentation, (HTML)
-	- Einstellung ob alles oder nur ein Teil gekürzt werden soll (Import)
+	- Import als PDF, Word, Präsentation
 	- Copy & Paste Textfeld
 
 ![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Eingabe.png)
@@ -20,24 +19,18 @@
 
 #### Einstellungen
 	- Sprache : Deutsch und Englisch
-	- Anzahl der Sätze (Prozentual)
-	- Heatmap : Priorität der Sätze
+	- Anzahl der Sätze (Prozentual, um wie viel Prozent soll gekürzt werden)
 
 ![Use Case Einstellungen](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Einstellungen_Use_Case_Diagramm.png)
 
 | Schritt          | Akteur          | Ablauf (Basic Flow)  |
 | :-------------: |:-------------:| :-----:|
-| 1.      | User | Import einer Datei |
-| 2.      | User      |   Überprüfen ob alle Einstellungen stimmen |
+| 1.      | User | Import einer Datei oder Copy & Paste eines Textes |
+| 2.      | User      |   Einstellen um wie viel Prozent der Text gekürzt werden soll|
 | 3. | User      |    Anzeige des zusammengefassten Textes |
 | 4.      | User | Exportieren des Textes als PDF-Datei |
 |           |          | **Ausnahmen, Varianten**  |
 | 1.a      | System      |   Mitteilung falls ein falsches Dateiformat gewählt wurde |
-| 1.b      | User      |   Einstellung ob alles gekürzt werden soll |
-| 1.c     | User    |   Bestimmte Seitenzahl zum kürzen eingeben |
-| 2.a      | User      |   Sprache ändern, falls dies notwendig ist |
-| 2.b | User      |    Anzahl der Sätze ändern (siehe Use Case für die Einstellungen) |
-| 2.c | User      |    Heatmap anzeigen lassen |
 | 3.a | System      |    Mitteilung falls der Ausgangstext zu kurz ist |
 
 ### Nicht-Funktionale Anforderungen
