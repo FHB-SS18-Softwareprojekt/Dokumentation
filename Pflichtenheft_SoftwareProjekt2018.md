@@ -15,7 +15,7 @@
 	- Anzeige des zusammengefassten Texts
 	- Speichern als PDF
 
-![Use Case Ausgabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Ausgabe_Use_Case_Diagramm.png)
+![Use Case Ausgabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Ausgabe.png)
 
 #### Einstellungen
 	- Sprache : Deutsch und Englisch
