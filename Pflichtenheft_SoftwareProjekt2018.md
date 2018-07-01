@@ -6,7 +6,7 @@
 	- Text zusammenfassen
 
 #### Eingabe
-	- Import als PDF, Word, Präsentation
+	- Import als PDF, Word, txt
 	- Copy & Paste Textfeld
 
 ![Use Case Eingabe](https://raw.githubusercontent.com/FHB-SS18-Softwareprojekt/Dokumentation/Pflichtenheft/bilder/Eingabe.png)
