@@ -36,7 +36,7 @@
 ### Nicht-Funktionale Anforderungen
 
 #### Anwendung
-	- Wir wollen ein ausführbares Programm erstellen, welches auf allen gängigen Betriebssystemen läuft (Windows, Linux, OS X).
+	- Wir wollen ein ausführbares Programm erstellen, welches auf Linux-Systemen laufen soll
 	- Die Anwendung sollte intuitiv nutzbar sein und die Aufgabe der Zusammenfassung schnell und sicher erledigen (effiziente Algorithmen).
 
 ### User-Stories
