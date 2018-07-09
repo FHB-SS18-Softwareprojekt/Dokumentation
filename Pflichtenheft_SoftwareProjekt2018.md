@@ -42,7 +42,7 @@
 ### User-Stories
 
 #### Import
-	- Als Nutzer möchte ich einen Text PDF, Word-Datei oder als HTML-Datei importieren, um diese anschließend zusammenzufassen.
+	- Als Nutzer möchte ich einen Text PDF oder als Word-Datei importieren, um diese anschließend zusammenzufassen.
 
 | Name	| Rolle	| In meiner Rolle möchte ich | so dass| Akzeptanz	| Priorität	|
 | :----:| :----:|:--------------------------:|:------:|:-----------:|:---------:|
